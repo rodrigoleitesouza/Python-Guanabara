@@ -1,0 +1,10 @@
+print("---------------------------------------------------")
+number1 = float(input("1º Número: "))
+number2 = float(input("2º Número: "))
+sum = (number1+number2)
+print("---------------------------------------------------")
+print("A soma dos números {0} e {1} é igual a {2}.".format(
+    number1, number2, sum))
+print("---------------------------------------------------")
+print("Encerrando...")
+print("---------------------------------------------------")

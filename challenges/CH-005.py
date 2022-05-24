@@ -1,0 +1,10 @@
+print("---------------------------------------------------")
+kidding = input("Digite algo legal -> ")
+print("---------------------------------------------------")
+print("O tipo primitivo da informação que você digitou é [{}].".format(
+    type(kidding)))
+print("---------------------------------------------------")
+print("Será que ela pode ser um número? -> [{}]".format(kidding.isnumeric()))
+print("---------------------------------------------------")
+print("Encerrando...")
+print("---------------------------------------------------")
