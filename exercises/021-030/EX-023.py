@@ -3,12 +3,12 @@ print("--------------------------")
 print("- MANIPULAÇÃO DE STRINGS -")
 print("--------------------------")
 
-number = str(input("Digite um número entre 0 e 9999 -> "))
+number = int(input("Digite um número inteiro entre 0 e 9999 -> "))
 
-unity = number[3]
-ten = number[2]
-hundred = number[1]
-thousand = number[0]
+unity = number // 1 % 10
+ten = number // 10 % 10
+hundred = number // 100 % 10
+thousand = number // 1000 % 10
 
 print("--------------------------")
 print("Milhar: {0}".format(thousand))
