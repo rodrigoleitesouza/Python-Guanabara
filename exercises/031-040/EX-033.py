@@ -11,22 +11,22 @@ lowestNumber = 0
 
 print("--------------------------")
 
-if (number1 > number2 and number3):
+if (number1 >= number2 and number3):
     biggestNumber = number1
 
-if (number2 > number1 and number3):
+if (number2 >= number1 and number3):
     biggestNumber = number2
 
-if (number3 > number2 and number1):
+if (number3 >= number2 and number1):
     biggestNumber = number3
 
-if (number1 < number2 and number3):
+if (number1 <= number2 and number3):
     lowestNumber = number1
 
-if (number2 < number1 and number3):
+if (number2 <= number1 and number3):
     lowestNumber = number2
 
-if (number3 < number2 and number1):
+if (number3 <= number2 and number1):
     lowestNumber = number3
 
 print("O maior número é -> {0:.2f}".format(biggestNumber))
