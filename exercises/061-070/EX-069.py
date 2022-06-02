@@ -8,11 +8,19 @@ totalMales = 0
 
 femalesUnder20 = 0
 
+
 while (True):
+
+    genrer = ""
+
+    exit = ""
+
     count = count + 1
 
     yearsOld = int(input(f"{count}º IDADE: "))
-    genrer = str(input(f"{count}º SEXO [F/M]: "))
+
+    while (genrer != "M" and genrer != "F"):
+        genrer = str(input(f"{count}º SEXO [F/M]: ")).upper()
 
     if (yearsOld > 18):
         totalAdulthood = totalAdulthood + 1
@@ -25,7 +33,9 @@ while (True):
 
     print("---------------------------------------------------")
 
-    exit = str(input("Gostaria de continuar? [S/N] -> ")).upper()
+    while (exit != "N" and exit != "S"):
+        exit = str(input("Gostaria de continuar? [S/N] -> ")).upper()
+
     if (exit == "N"):
         break
 
