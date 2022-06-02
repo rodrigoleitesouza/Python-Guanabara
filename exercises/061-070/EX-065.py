@@ -26,7 +26,7 @@ while(exit != "S"):
 
 print("---------------------------------------------------")
 
-print("Média: {0:.2f}".format(mean))
+print(f"Média: {mean:.2f}")
 print("Maior: {0}".format(biggestNumber))
 print("Menor: {0}".format(lowestNumber))
 
