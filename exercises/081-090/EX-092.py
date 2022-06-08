@@ -16,9 +16,6 @@ while(True):
     person["workNumber"] = int(input("Carteira de Trabalho (0 não tem): "))
 
     if (person["workNumber"] == 0):
-        print("---------------------------------------------------")
-        for key, value in person.items():
-            print(f"{key} -> {value}")
         break
 
     person["jobStarted"] = int(input("Ano de contratação: "))
