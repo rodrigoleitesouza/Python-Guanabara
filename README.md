@@ -1,8 +1,12 @@
 # Python-Guanabara 📗
 
-O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em lógica de programação e algoritmos utilizando visuAlg e assistindo às aulas do Curso Em Vídeo do professor Gustavo Guanabara.
+O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em Python utilizando Visual Studio Code e assistindo às aulas do Curso Em Vídeo do professor Gustavo Guanabara.
 
-Link para a playlist com todas as aulas: https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV
+Link para as playlist com todas as aulas abaixo:
+
+- Mundo 1: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+- Mundo 2: https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
+- Mundo 3: https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
 
 Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 
@@ -10,15 +14,21 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 
 - Lógica de Programação;
 - Algoritmos;
+- Tipos Primitivos;
 - Operadores Lógicos;
 - Operadores Relacionais;
-- Estruturas Condicionais Simples;
-- Estruturas Condicionais Compostas;
-- Estruturas de Repetição;
-- Procedimentos;
+- Utilização de Módulos;
+- Manipulação de Textos;
+- Condições Simples;
+- Condições Aninhadas;
+- Estrutura de Repetição (for);
+- Estrutura de Repetição (while);
+- Estrutura de Repetição (flag);
+- Tuplas;
+- Listas;
+- Dicionários;
 - Funções;
-- Vetores;
-- Matrizes.
+- Tratamento de Erros.
 
 ------------------------------------------------------------------
 
