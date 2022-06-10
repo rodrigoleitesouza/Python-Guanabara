@@ -8,9 +8,9 @@ Link para as playlist com todas as aulas abaixo:
 - Mundo 2: https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
 - Mundo 3: https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
 
-Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
+---
 
-------------------------------------------------------------------
+Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 
 - Lógica de Programação;
 - Algoritmos;
@@ -30,7 +30,7 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 - Funções;
 - Tratamento de Erros.
 
-------------------------------------------------------------------
+---
 
 Qualquer dúvida entre em contato por <a href="mailto:rodrigoleitesouzadev@gmail.com?">rodrigoleitesouzadev@gmail.com</a>
 
