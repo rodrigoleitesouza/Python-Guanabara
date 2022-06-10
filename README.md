@@ -2,6 +2,8 @@
 
 O presente repositório refere-se aos meus estudos e, também, a todos os códigos que desenvolvi durante meus aprendizados em Python utilizando Visual Studio Code e assistindo às aulas do Curso Em Vídeo do professor Gustavo Guanabara.
 
+---
+
 Link para as playlist com todas as aulas abaixo:
 
 - Mundo 1: https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
