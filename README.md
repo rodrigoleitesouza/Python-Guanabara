@@ -25,7 +25,6 @@ Segue abaixo os conhecimentos e as tecnologias desenvolvidas:
 - Condições Aninhadas;
 - Estrutura de Repetição (for);
 - Estrutura de Repetição (while);
-- Estrutura de Repetição (flag);
 - Tuplas;
 - Listas;
 - Dicionários;
