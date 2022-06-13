@@ -1,13 +1,15 @@
 def write(message):
-    print("---------------------------------------------------")
-    print(message)
-    print("---------------------------------------------------")
+    lenght = len(message) + 4
+    print("-" * lenght)
+    print(f'  {message}')
+    print("-" * lenght)
+
 
 print("---------------------------------------------------")
 
-massage = str(input("Digite sua mensagem aqui -> "))
+message = str(input("Digite sua mensagem aqui -> "))
 
-write(massage)
+write(message)
 
 print("Encerrando...")
 print("---------------------------------------------------")
