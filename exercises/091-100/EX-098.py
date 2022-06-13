@@ -1,5 +1,6 @@
 from time import sleep
 
+
 def count(start, end, increment):
     if (increment < 0):
         increment = increment*(-1)
@@ -9,15 +10,16 @@ def count(start, end, increment):
 
     if (start < end):
         for start in range(start, end+1, +increment):
-            print(f'{start}... ', end="")
+            print(f'{start}... ', end="", flush=True)
             sleep(0.3)
         print()
 
-    if (start > end):   
+    if (start > end):
         for start in range(start, end-1, -increment):
-            print(f'{start}... ', end="")
+            print(f'{start}... ', end="", flush=True)
             sleep(0.3)
         print()
+
 
 print("---------------------------------------------------")
 
