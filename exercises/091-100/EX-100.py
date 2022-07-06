@@ -19,6 +19,7 @@ print("---------------------------------------------------")
 start = str(input("            TECLE ENTER PARA INICIAR               "))
 print("---------------------------------------------------")
 
+
 listOfNumbers = []
 
 randomize(listOfNumbers)
