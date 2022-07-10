@@ -23,7 +23,6 @@ listOfNumbers = []
 
 randomize(listOfNumbers)
 
-
 result = sumEven(listOfNumbers)
 
 print(f'A lista dos números sorteados é -> {listOfNumbers}')
