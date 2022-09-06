@@ -21,7 +21,6 @@ print("---------------------------------------------------")
 
 listOfNumbers = []
 
-
 randomize(listOfNumbers)
 
 result = sumEven(listOfNumbers)
